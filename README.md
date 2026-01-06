@@ -54,7 +54,7 @@ Typically minimal:
 📦 Installation & Setup
 
 **Play Online**  
-Live demo: [Link to your GitHub Pages URL, e.g., https://deividas-strole.github.io/threejs-spinning-particles/](https://yourusername.github.io/repo-name/)
+Live demo: [Link to your GitHub Pages URL, e.g., https://deividas-strole.github.io/threejs-spinning-particles/](https://deividas-strole.github.io/threejs-spinning-particles)
 
 **Run Locally**  
 1. Clone the repo: `git clone https://github.com/deividas-strole/spinning-particles.git`
